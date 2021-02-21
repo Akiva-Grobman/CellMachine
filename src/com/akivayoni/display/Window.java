@@ -5,7 +5,7 @@ import java.awt.*;
 
 public class Window {
 
-    private static final int RESIZE_FACTOR = 70;
+    private static final int RESIZE_FACTOR = 75;
     public static final int WIDTH = 19 * RESIZE_FACTOR;
     public static final int HEIGHT = 12 * RESIZE_FACTOR;
     private final Canvas screen;
